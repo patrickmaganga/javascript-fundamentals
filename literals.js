@@ -12,3 +12,4 @@ let item = 'cucumbers';
 let price = 1.99;
 let quantity = 4;
 'you bought ${quantity} ${item}, total price: $${price*quantity}';
+let 
